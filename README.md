@@ -10,13 +10,13 @@
 <h1 align="center">Pokemon Exercise</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RayLoria/pacmen-exercise?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RayLoria/Pokemon-Exercise?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RayLoria/pacmen-exercise?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RayLoria/Pokemon-Exercise?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RayLoria/pacmen-exercise?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RayLoria/Pokemon-Exercise?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/RayLoria/pacmen-exercise?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/RayLoria/Pokemon-Exercise?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/pacmen-exercise?color=56BEB8" /> -->
 
