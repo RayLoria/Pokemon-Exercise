@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./img/pokemon-logo.gif" width="900" height="400" alt="PacMen Exercise" />
+  <img src="./img/pokemon-logo.gif" width="700" height="350" alt="PacMen Exercise" />
 
 &#xa0;
 
